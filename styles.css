@@ -1,0 +1,41 @@
+
+*{
+  margin:10px;
+  padding:5px;
+}
+*{
+  color :rgb(119, 199, 54)
+}
+p{
+  font-size:large;
+  font-family:cursive;
+  color:rgb(249, 249, 249);
+}
+h2{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(8, 8, 8);
+}
+h3{
+  font-size:x-large;
+  color: brown;
+}
+h4{
+  font-size: x-large;
+  background-color:rgb(41, 23, 1);
+  font-style:italic;
+  color:whitesmoke;
+}
+u{
+  color: rgb(5, 43, 211);
+}
+*{
+  background-color: rgb(144, 123, 183);
+}
+*{
+  text-align: center;
+}
+img{
+  height: 400px;
+  width: 275px;
+}
+
